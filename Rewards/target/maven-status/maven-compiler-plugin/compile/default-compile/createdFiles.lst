@@ -1,0 +1,6 @@
+club\vinchex\rewards\commands\AdminRewardsCommand.class
+club\vinchex\rewards\commands\ResetSubCommand.class
+club\vinchex\rewards\commands\CreateSubCommand.class
+club\vinchex\rewards\Main.class
+club\vinchex\rewards\commands\AddSubCommand.class
+club\vinchex\rewards\commands\RewardsCommand.class

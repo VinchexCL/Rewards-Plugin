@@ -1,0 +1,23 @@
+name: Rewards
+version: 1.1
+main: club.vinchex.rewards.Main
+commands:
+  adminrewards:
+    description: Manage the rewards
+    usage: /adminrewards create <reward>
+    permission: adminrewards.command
+  redeem:
+    description: Redeem a reward
+    usage: /redeem <reward>
+  reset:
+    description: Reset a reward
+    usage: /adminrewards reset <player|all> <reward>
+    permission: adminrewards.command.reset
+  create:
+    description: Create a rewards
+    usage: /adminrewards create <reward>
+    permission: adminrewards.command.create
+  add:
+    description: Add a command to the reward
+    usage: /adminrewards add <reward> <command>
+    permission: adminrewards.command.add

@@ -1,0 +1,4 @@
+not-permission:
+  - "&cYou don''t have permission!"
+not-console:
+  - "&cThis command is exclusive for players!"
